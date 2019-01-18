@@ -7,10 +7,15 @@ Welcome to LFbream. This supplementary materials described in article "Stock ass
 For the calculation the bream data by LBB and TropFishR methods R2jags, Hmisc, lattice, survival, Formula, ggplot2  and TropFishR may be installed with
 
 install.packages("R2jags")
+
 install.packages("Hmisc")
+
 install.packages("lattice")
+
 install.packages ("survival")
+
 install.packages ("Formula")
+
 install.packages ("ggplot2")
 
 install.packages("TropFishR")

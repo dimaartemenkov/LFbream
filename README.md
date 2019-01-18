@@ -12,11 +12,11 @@ install.packages("Hmisc")
 
 install.packages("lattice")
 
-install.packages ("survival")
+install.packages("survival")
 
-install.packages ("Formula")
+install.packages("Formula")
 
-install.packages ("ggplot2")
+install.packages("ggplot2")
 
 install.packages("TropFishR")
 

@@ -1,0 +1,39 @@
+Results for Abramis brama , stock bream , 2012 - 2017  
+
+Linf prior = 61.2 , SD = 0.612 (cm)  
+Z/K prior  = 3.84 , SD = 3.23 , M/K prior  = 1.5 , SD = 0.15  
+F/K prior  = 2.34 (wide range with tau=4 in log-normal distribution)
+Lc prior   = 16.8 , SD = 1.68 (cm)  , alpha prior= 19.2 , SD = 1.92 
+
+
+
+General reference points [median across years]: 
+
+Linf               = 60.2 (59.2-61.6) cm 
+Lopt               = 41 cm, Lopt/Linf = 0.68 
+Lc_opt             = 40 cm, Lc_opt/Linf = 0.67 
+M/K                = 1.38 (1.12-1.65) 
+F/K                = 21.3 (18.7-24.3) 
+Z/K                = 22.8 (20.1-25.6) 
+F/M                = 16.7 (13.3-22.4) 
+B/B0 F=M Lc=Lc_opt = 0.37 
+B/B0               = 0.017 (0.0121-0.0233) 
+Y/R' F=M Lc=Lc_opt = 0.0514 
+
+
+
+Estimates for last year 2017 :
+
+Lc         = 28.6 (28.5-28.8) cm, Lc/Linf = 0.49 (0.487-0.494) 
+alpha      = 24.5 ( 24 - 25.1 ) 
+Lmean/Lopt = 0.75 , Lc/Lc_opt = 0.71 , L95th = 42 cm , L95th/Linf = 0.72 , Lm50 = 27.1 cm , Mature = 72 %
+F/K        = 5.4 ( 4.99 - 5.94 )
+F/M        = 5.3 ( 3.76 - 6.96 )
+Z/K        = 6.45 ( 6.07 - 6.9 )
+Y/R'       = 0.017 ( 0.011 - 0.0252 ) (linearly reduced if B/B0 < 0.25)
+B/B0       = 0.06 ( 0.0381 - 0.0876 )
+B/Bmsy     = 0.16 ( 0.103 - 0.236 )
+
+
+
+Comment: DA 05-09-2018

@@ -4,7 +4,7 @@ library(TropFishR)
 
 
 
-#Load data Abramis brama and change their structure
+#Load data Abramis brama and change their structure 
 
 setwd("C:/Users/user/Google Диск/Работа/TropFishR/Горячев 16-10-2017/data/dmitrov 12-11-2017")
 bream <- read.csv("bream1217.csv")

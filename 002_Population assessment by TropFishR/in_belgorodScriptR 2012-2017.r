@@ -47,7 +47,7 @@ synLFQ7a$b <- as.numeric(3.0787)
 
 
 
-#Calculate length-frequency analisys
+#Calculate length-frequency analisys 
 
 VPA(synLFQ7a, terminalE = 0.5, analysis_type = "CA", plot = TRUE,
     catch_unit = "'000", plus_group = TRUE, catch_columns = 1:ncol(synLFQ7a$catch))
